@@ -6,7 +6,7 @@ version := "1.0-SNAPSHOT"
     jdbc,
     anorm,
     cache,
-    "com.gocardless" % "gocardless-java" % "1.1.0",
+    "com.gocardless" % "gocardless-java" % "2.0.0",
     "net.databinder.dispatch" %% "dispatch-core" % "0.11.0"
   )
 
